@@ -1,4 +1,4 @@
-//Importar a instancia do Express configurada em index.js
+// Importar a instância da Express configurada em idex.js
 const app = require("./index");
-//Inicia o servidor na porta 5000,neste caso a API será acessivel em http://localhost:5000/
-app.listen(5000);
+//Inica o servidor na porta 3000, neste caso a API será acessiva em http://localhost:3000/
+app.listen(3000);
